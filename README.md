@@ -1,6 +1,6 @@
 <h1>Hi, I'm Sebastian! <br/><a href="https://github.com">Programmer</a>, <a href="">Cybersecurity Professional</a></a></h1>
 <!-- https://www.linkedin.com/in/sebastian-t-leija-223818395/ -->
-<a href="[https://linkedin.com](https://www.linkedin.com/in/sebastian-t-leija-223818395/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/sebastian-t-leija-223818395"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction - Remove this afterwards]
 
