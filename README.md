@@ -1,5 +1,11 @@
 <h1>Hi, I'm Sebastian! <br/><a href="https://github.com">Programmer</a>, <a href="">Cybersecurity Professional</a></a></h1>
 
+<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+[Brief Introduction - Remove this afterwards]
+
+I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+
 <h2>👨‍💻 Software development</h2>
 
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
