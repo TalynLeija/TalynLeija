@@ -1,8 +1,8 @@
-<h1>Hi, I'm Sebastian Leija! <br/><a href="https://github.com">Programmer</a>, <a href="">Cybersecurity Professional</a></a></h1>
+<h1>Hi, I'm Talyn Leija! <br/><a href="https://github.com">Programmer</a>, <a href="">Cybersecurity Professional</a></a></h1>
 <!-- https://www.linkedin.com/in/sebastian-t-leija-223818395/ -->
 <a href="https://www.linkedin.com/in/sebastian-t-leija-223818395"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Uhhhh
+I have deep intrest in the Information Technology field and would like document my projects. In particular I highlight my intrest in automation and cybersecurity
 
 <h2>👨‍💻 Software development</h2>
 
