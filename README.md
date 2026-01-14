@@ -16,9 +16,9 @@ I have deep interest in the Information Technology field and would like document
   - [Place holder](https://youtube.com)  -
 
 <h2>Certifications</h2>
+<!--https://www.credly.com/badges/2da1cc30-f2a1-4c86-8939-1f741f389c15/public_url-->
+<a href="https://www.credly.com/badges/2da1cc30-f2a1-4c86-8939-1f741f389c15/public_url"><img src="https://img.shields.io/badge/-A%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
 
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 
 <h2>📺 Projects</h2>
 
