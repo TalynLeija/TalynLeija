@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sebastian! <br/><a href="https://github.com">Programmer</a>, <a href="">Cybersecurity Professional</a></a></h1>
+<h1>Hi, I'm Sebastian Leija! <br/><a href="https://github.com">Programmer</a>, <a href="">Cybersecurity Professional</a></a></h1>
 <!-- https://www.linkedin.com/in/sebastian-t-leija-223818395/ -->
 <a href="https://www.linkedin.com/in/sebastian-t-leija-223818395"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
@@ -19,21 +19,9 @@ Uhhhh
 
 - [placeholder](https://www.youtube.com)
 
-<h2>📺 Cyber security</h2>
+<h2>📺 Projects</h2>
 
 - [Placeholder](https://www.youtube.com)
-
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="" />][instagram]
-
-[twitter]:
-[youtube]:
-[instagram]: 
-[linkedin]: 
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
