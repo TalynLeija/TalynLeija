@@ -4,38 +4,24 @@
 
 I have deep interest in the Information Technology field and would like document my projects. In particular I highlight my intrest in automation and cybersecurity
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | Detection Lab|
-| Network Traffic Monitoring and Attack Detection | Detection Lab|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-
 <h2>👨‍💻 Software development</h2>
 
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Place holder](https://youtube.com) <b><i>(Place holder)</b></i>
 - <b>PowerShell</b>
-  - [Place holder](https://youtube.com)
+  - automation and stuff and maybe network tools
+- <b>Machine Learning</b>
+  - [Place holder](https://youtube.com) <b><i>(Place holder)</b></i>
 - <b>Python</b>
-  - [Place holder](https://youtube.com)
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - Web scrapping, Machine learning, oh that one lotto project
+- <b>Active Directory</b>
   - [Place holder](https://youtube.com)  -
 
 <h2>📄 Certifications</h2>
 <!--https://www.credly.com/badges/2da1cc30-f2a1-4c86-8939-1f741f389c15/public_url-->
-<!--https://img.shields.io/badge/-A%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white-->
-<!--#C8202F-->
 
 <a href="https://www.credly.com/badges/2da1cc30-f2a1-4c86-8939-1f741f389c15/public_url"><img src="https://img.shields.io/badge/-A%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white&logoSize=auto" /></a>
 
 
 <h2>💻 Projects</h2>
 
-- [Placeholder](https://www.youtube.com)
+Projects differ from skills as they are actually meant to achieve something.
 
