@@ -9,7 +9,8 @@ I have deep interest in the Information Technology field and would like document
 - <b>PowerShell</b>
   - automation and stuff and maybe network tools
 - <b>Machine Learning</b>
-  - [Place holder](https://youtube.com) <b><i>(Place holder)</b></i>
+  Python/Practice_ML.py
+  - [Practice_ML](https://github.com/TalynLeija/Code-storage/blob/main/Python/Practice_ML.py) <b><i> + </b></i> [Required_Data](https://github.com/TalynLeija/Code-storage/blob/main/Python/addition_data.xlsx)
 - <b>Python</b>
   - Web scrapping, Machine learning, oh that one lotto project
 - <b>Active Directory</b>
