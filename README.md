@@ -25,7 +25,9 @@ I have deep interest in the Information Technology field and would like document
 <a href="https://www.credly.com/badges/2da1cc30-f2a1-4c86-8939-1f741f389c15/public_url"><img src="https://img.shields.io/badge/-A%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white&logoSize=auto" /></a>
 
 
+
 <h2>💻 Projects</h2>
 
-Projects differ from skills as they are actually meant to achieve something.
-
+<a href=https://github.com/TalynLeija/Code-storage/blob/main/Python/Grants.py>Grants</a> (A demo I showed at a local hackathon)<br/>
+<a href=https://github.com/TalynLeija/Code-storage/blob/main/Python/Chaos_Tester.py>Chaos_Tester</a> (A program that shows chaos theory)   
+<a href=https://github.com/TalynLeija/Code-storage/blob/main/Python/RNG_Prediction3.py>RNG_Prediction3</a><b> + </b><a href=https://github.com/TalynLeija/Code-storage/blob/main/Python/RNG_Analyzer.py>RNG_Analyzer</a> (Programs I made to predict random numbers. It's not completed but it's something im intrested in)
