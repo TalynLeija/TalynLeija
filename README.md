@@ -13,7 +13,9 @@ I have deep interest in the Information Technology field and would like document
   - [Practice_ML](https://github.com/TalynLeija/Code-storage/blob/main/Python/Practice_ML.py) <b> + </b> [Required_Data](https://github.com/TalynLeija/Code-storage/blob/main/Python/addition_data.xlsx)
   - [Practice_ML2](https://github.com/TalynLeija/Code-storage/blob/main/Python/Practice_ML2.py)<b> + </b> [Required_Data](https://github.com/TalynLeija/Code-storage/blob/main/Python/Submarine_data.xlsx)
 - <b>Python Web scraping</b>
-  - Web scrapping, Machine learning, oh that one lotto project
+  - [phone+email finder](https://github.com/TalynLeija/Code-storage/blob/main/Python/phone%2Bemail%20finder.py)
+  - [YoutubeComments](https://github.com/TalynLeija/Code-storage/blob/main/Python/YoutubeComments.py)
+  - [Lotto_update3](https://github.com/TalynLeija/Code-storage/blob/main/Python/Lotto_update3.py)
 - <b>Active Directory</b>
   - [Place holder](https://youtube.com)  -
 
