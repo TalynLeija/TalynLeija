@@ -17,10 +17,7 @@ I have deep interest in the Information Technology field and would like document
   - [YoutubeComments](https://github.com/TalynLeija/Code-storage/blob/main/Python/YoutubeComments.py)
   - [Lotto_update3](https://github.com/TalynLeija/Code-storage/blob/main/Python/Lotto_update3.py)
 - <b>Active Directory</b>
-  - [Active Directory Infrastructure]()
-  - [Managing Accounts]()
-  - [VPN Setup]()
-  - [VPN Setup]()
+  - [Active Directory Anki Cards](https://github.com/TalynLeija/Active-Directory/blob/main/Module3%20Active%20directory.apkg)
 
 <h2>📄 Certifications</h2>
 <!--https://www.credly.com/badges/2da1cc30-f2a1-4c86-8939-1f741f389c15/public_url-->
