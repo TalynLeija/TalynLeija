@@ -1,13 +1,16 @@
 <h1>Hi, I'm Talyn Leija! <br/><a >Programmer, Cybersecurity, IT Support</a></h1>
-<!-- https://www.linkedin.com/in/sebastian-t-leija-223818395/ -->
+
+<!-- I might delete linkten but I haven't decided yet
 <a href="https://www.linkedin.com/in/sebastian-t-leija-223818395"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+-->
 
 I have deep interest in the Information Technology field and would like document my projects. In particular I highlight my intrest in automation and cybersecurity
 
 <h2>👨‍💻 Software development</h2>
 
-- <b>PowerShell</b>
-  - automation and stuff and maybe network tools
+- <b>PowerShell projects</b>
+  - [Wallpaper Prank](https://github.com/TalynLeija/Code-storage/tree/main/Powershell/WallpaperPrank)
+  - [Automated screen shots](https://github.com/TalynLeija/Code-storage/tree/main/Powershell/ScreenShotCapture)
 - <b>Machine Learning</b>
   - [Num_Prediction_K](https://github.com/TalynLeija/Code-storage/blob/main/Python/Num_Prediction_K.py)
   - [Practice_ML](https://github.com/TalynLeija/Code-storage/blob/main/Python/Practice_ML.py) <b> + </b> [Required_Data](https://github.com/TalynLeija/Code-storage/blob/main/Python/addition_data.xlsx)
@@ -26,7 +29,7 @@ I have deep interest in the Information Technology field and would like document
 
 
 
-<h2>💻 Projects</h2>
+<h2>💻 More Projects</h2>
 
 <a href=https://github.com/TalynLeija/Code-storage/blob/main/Python/Grants.py>Grants</a> (A demo I showed at a local hackathon)<br/>
 <a href=https://github.com/TalynLeija/Code-storage/blob/main/Python/Chaos_Tester.py>Chaos_Tester</a> (A program that shows chaos theory)   
